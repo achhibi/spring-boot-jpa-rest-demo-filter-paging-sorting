@@ -1,4 +1,4 @@
-# spring-boot-jpa-rest-demo-filter-paging-sorting
+# Spring-boot-jpa-rest-demo-filter-paging-sorting
 
 An example application using Spring boot MVC, Spring Data JPA with the ability to do filter, pagination and sorting.
 
